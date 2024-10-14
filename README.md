@@ -1,7 +1,7 @@
 # Sales Analysis Dashboard
 
 ## Project Overview
-### This Tableau Public dashboard analyzes sales data for from 2020-2023. It provides insights into KPIs of products on yearly basis. Additionaly, Sales and profit distribution data can be analysed from region to city level.
+### This Tableau Sales dashboard analyzes sales data for from 2020-2023. It provides insights into KPIs of products on yearly basis. Additionaly, Sales and profit distribution data can be analysed from region to city level.
 
 ## Interactive Features
 ### In the Sales dashboard, users can: 
